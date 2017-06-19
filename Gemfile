@@ -35,6 +35,7 @@ gem 'pundit'
 gem 'responders'
 gem 'rollbar'
 gem 'seedbank'
+gem 'hubotgf'
 
 group :test do
   gem 'capybara'
